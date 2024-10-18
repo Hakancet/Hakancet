@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Hakan.<br><br>I am a 4th year student at Selçuk University Computer Engineering.
+Hi, I am Hakan.<br><br>I graduated from Selçuk University with a degree in Computer Engineering.
 
 
 ## 🌐 Socials:
